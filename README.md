@@ -9,8 +9,8 @@ _Life's short. Cheat a little._
 **Copyright** (AGPL-3.0)
 
 ```
-Charlatano: Free and open-source (FOSS) cheat for CS:GO/CS:CO
-Copyright (C) 2017 - Thomas G. P. Nappo, Jonathan Beaudoin
+cheat.life: Life's short. Cheat a little.
+Copyright (C) 2017 - Thomas G. P. Nappo
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
